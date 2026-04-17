@@ -7,20 +7,20 @@ i-Risk is a NERC funded Doctoral Focal Award training 41+ PhD researchers to bec
 
 Rising flood risk and other climatic hazards are expected to devastate more people and property, and intensify pressure on critical infrastructure systems. Much current DRR research/practice is ‘siloed’, with little consideration of the systemic, interconnected and interdependent nature of complex risks and multiple interacting hazards facing people and built environments. A number of recent UK government reports seek research to understand cascading failures across interdependent infrastructure systems, impacted by extreme weather events, for effective adaptation. The 2021 House of Lords report, “Preparing for extreme risks: building a resilient society”, explicitly pointed out: “there is nationally and internationally a critical shortage of professionals trained in risk science” to deliver infrastructure adaptation strategies to battle climate change. 
 
-![i-Risk need](https://github.com/i-risk-dfa/info/blob/main/DRR_challenge.png)
+![i-Risk need](https://github.com/i-risk-dfa/.github/blob/main/DRR_challenge.png)
 
 Nascent high-performance computing and digital informatics provide an unprecedented but untapped opportunity to advance DRR and infrastructure resilience research and practice. Building on long-standing strengths of three leading UK universities at the forefront of integrated informatics and multi-hazard risk research and the powerful global networks associated with the UNESCO Chair in Informatics and Multi-hazard Risk Reduction in Loughborough, the aim of this multi-sited CDT is to train the next generation of research leaders through a wide range of transdisciplinary PhD projects to improve understanding of and subsequently develop inter-disciplinary tools and solutions for multi-hazard systemic risk assessment and transform DRR research and practice responding to climate change. A range of industry-informed PhD projects will be delivered to:
 - enhance fundamental understanding of natural and human drivers of multi-hazards interacting with multiple infrastructure systems and propagation of cascading risks across different societal sectors;
 - develop new methodologies and tools by integrating the latest multi-disciplinary knowledge and digital informatics technologies to assess systemic risks;
 - co-develop trans-disciplinary solutions to manage these risks and enhance infrastructure and society resilience.
 
-![i-Risk aims](https://github.com/i-risk-dfa/info/blob/main/i-risk_aims.png)
+![i-Risk aims](https://github.com/i-risk-dfa/.github/blob/main/i-risk_aims.png)
 
 ## The Team
 
 The DFA is a collaboration between Loughborough University, The University of Manchester, Newcastle University, The British Geological Survey and multiple global partners from government, industry and the third sector. 
 
-![i-Risk team](https://github.com/i-risk-dfa/info/blob/main/irisk_team.png)
+![i-Risk team](https://github.com/i-risk-dfa/.github/blob/main/irisk_team.png)
 
 i-Risk is led by Prof. Qiuhua Liang at Loughborough University.
 
@@ -31,7 +31,7 @@ The i-Risk training program has 3 strands:
 - PhD Research
 - 6week-6month placements at partner organisations
 
-![i-Risk training overview](https://github.com/i-risk-dfa/info/blob/main/i-risk_training.png)
+![i-Risk training overview](https://github.com/i-risk-dfa/.github/blob/main/i-risk_training.png)
 
 **Integrated cohort training** and regular partner interaction will help students build networks and relationships beyond supervisors, exposing them to a wide range of environments, motivations/ideas and, importantly, develop the partner-identified skills.  The core components of the annual cohort training programme include: 
   1) induction and partner week (Oct) to build the team and establish i-Risk culture, as well as interacting with partners to form partnerships and co-develop PhD ideas and placement plans;
@@ -46,7 +46,7 @@ The i-Risk training program has 3 strands:
 
 All i-Risk students will also have access to modules in the three partnering HEIs to get essential knowledge to start their PhD. 
 
-![i-Risk skills matrix](https://github.com/i-risk-dfa/info/blob/main/i-risk_training2.png)
+![i-Risk skills matrix](https://github.com/i-risk-dfa/.github/blob/main/i-risk_training2.png)
 
 ## Apply for a PhD with i-Risk
 
